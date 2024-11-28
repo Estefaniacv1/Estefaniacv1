@@ -1,4 +1,15 @@
-## Hi there 👋
+### Hola! Soy Estefania Carreño Vargas 👋
+- 🌍 **Ciudad:** CDMX
+  
+- 👅 **Idioma:** Inglés- Español
+
+Diseñadora gráfica con más de 15 años de experiencia en gestión y diseño web,posteos para redes sociales y cursos en línea. Especializada
+en transformar ideas complejas en soluciones visuales efectivas, he desarrollado interfaces intuitivas y publicaciones para redes creativas
+que optimizan la interacción del usuario.
+
+Mi enfoque en el diseño responsivo y la usabilidad, me permite crear experiencias que fortalecen la identidad de marca. Comprometida
+con la mejora continua, busco constantemente nuevas oportunidades para contribuir al éxito de cada proyecto.
+
 <div align="center">
   <a href="https://www.instagram.com/_mesurashii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/malibb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
