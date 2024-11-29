@@ -11,10 +11,8 @@ Mi enfoque en el diseño responsivo y la usabilidad, me permite crear experienci
 con la mejora continua, busco constantemente nuevas oportunidades para contribuir al éxito de cada proyecto.
 
 <div align="center">
-  <a href="https://www.instagram.com/_mesurashii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/malibb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:malinalibb98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-  <a href="https://twitter.com/_mesurashii"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/estefaniacv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:estefania.cvargas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
 </div>
 <!--
 **Estefaniacv1/Estefaniacv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
